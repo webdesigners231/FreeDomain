@@ -1,0 +1,11 @@
+{
+  "domain": "is-an.app",
+  "subdomain": "lapointe-s-lock-n-key-pros",
+  "owner": {
+    "username": "webdesigners231",
+    "email": "owner@webdesigners231.com"
+  },
+  "record": {
+    "CNAME": "webdesigners231.github.io"
+  }
+}
